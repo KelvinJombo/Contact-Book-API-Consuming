@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Commons\bin\Debug\net7.0\MyContactBookAPI.Commons.deps.json
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Commons\bin\Debug\net7.0\MyContactBookAPI.Commons.dll
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Commons\bin\Debug\net7.0\MyContactBookAPI.Commons.pdb
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Commons\obj\Debug\net7.0\MyContactBookAPI.Commons.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Commons\obj\Debug\net7.0\MyContactBookAPI.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Commons\obj\Debug\net7.0\MyContactBookAPI.Commons.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Commons\obj\Debug\net7.0\MyContactBookAPI.Commons.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Commons\obj\Debug\net7.0\MyContactBookAPI.Commons.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Commons\obj\Debug\net7.0\MyContactBookAPI.Commons.dll
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Commons\obj\Debug\net7.0\refint\MyContactBookAPI.Commons.dll
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Commons\obj\Debug\net7.0\MyContactBookAPI.Commons.pdb
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Commons\obj\Debug\net7.0\ref\MyContactBookAPI.Commons.dll

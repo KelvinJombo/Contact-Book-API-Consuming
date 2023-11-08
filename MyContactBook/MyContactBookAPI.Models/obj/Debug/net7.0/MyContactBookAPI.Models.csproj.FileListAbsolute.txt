@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\bin\Debug\net7.0\MyContactBookAPI.Models.deps.json
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\bin\Debug\net7.0\MyContactBookAPI.Models.dll
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\bin\Debug\net7.0\MyContactBookAPI.Models.pdb
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\bin\Debug\net7.0\MyContactBookAPI.Commons.dll
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\bin\Debug\net7.0\MyContactBookAPI.Commons.pdb
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\obj\Debug\net7.0\MyContactBookAPI.Models.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\obj\Debug\net7.0\MyContactBookAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\obj\Debug\net7.0\MyContactBookAPI.Models.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\obj\Debug\net7.0\MyContactBookAPI.Models.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\obj\Debug\net7.0\MyContactBookAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\obj\Debug\net7.0\MyContactBookAPI.Models.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\obj\Debug\net7.0\MyContactBookAPI.Models.dll
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\obj\Debug\net7.0\refint\MyContactBookAPI.Models.dll
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\obj\Debug\net7.0\MyContactBookAPI.Models.pdb
+C:\Users\HP\OneDrive\Desktop\Restful Contact Book\MyContactBook\MyContactBookAPI.Models\obj\Debug\net7.0\ref\MyContactBookAPI.Models.dll
